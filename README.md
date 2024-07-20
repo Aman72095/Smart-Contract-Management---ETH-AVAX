@@ -60,5 +60,5 @@ We need to set up a local network with the MetaMask wallet. otherwise, Metamask 
 
 ## Authors
 
-Rishav Kumar
+AMAN PATEL
 
